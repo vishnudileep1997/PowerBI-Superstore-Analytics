@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
+![Dashboard](Images/SUPERSTORE ANALYTICS DASHBOARD.png)
 
 
 # Superstore Sales Dashboard – Power BI Project
